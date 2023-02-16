@@ -1,0 +1,2 @@
+# harjoitusrepo
+Git-kurssin harjoitusrepositorio
