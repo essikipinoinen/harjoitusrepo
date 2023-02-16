@@ -10,9 +10,12 @@ void tulostetaanHeiMaailma() {
 	System.out.printIn("Hei maailma!");
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 void tulostetaanHeiSuomi() {
 	System.out.printIn("Hei Suomi!");
 }
+=======
+>>>>>>> b6f7985 (Lisättiin uusi metodi koodi.java -tiedostoon)
 =======
 >>>>>>> b6f7985 (Lisättiin uusi metodi koodi.java -tiedostoon)
