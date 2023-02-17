@@ -13,3 +13,5 @@ void tulostetaanHeiMaailma() {
 void tulostetaanHeiSuomi() {
 	System.out.printIn("Hei Suomi!");
 }
+
+Uusi rivi
